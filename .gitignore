@@ -1,3 +1,6 @@
 venv/
 .idea
 *.iml
+*/venv
+*.pdf
+*/.ipynb_checkpoints
